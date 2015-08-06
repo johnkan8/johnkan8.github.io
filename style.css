@@ -1,0 +1,51 @@
+body{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: blue;
+}
+
+h3 {
+	font-size: 80px;
+	background-color:yellow;
+}
+
+img {
+	width:120px;
+}
+
+p{
+	font-size: 0.9em;
+}
+
+#feartag {
+	color: red;
+}
+
+.Grouptags {
+	color: green;
+}
+
+.Left {
+	float:left;
+	margin: 0 20px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: red;
+	padding: 15px;
+}
+
+.Right {
+	float:right;
+	margin:5%;
+}
+
+#greenItem {
+	color:green;
+}
+
+.blueItem {
+	color:blue;
+}
